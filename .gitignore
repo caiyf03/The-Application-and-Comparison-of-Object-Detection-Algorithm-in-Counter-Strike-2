@@ -1,0 +1,8 @@
+ssd-pytorch-master1/VOCdevkit/*
+ssd-pytorch-master1/csgo_dataset/*
+ssd-pytorch-master1/map_out/*
+
+# 允许占位文件
+!ssd-pytorch-master1/VOCdevkit/.gitkeep
+!ssd-pytorch-master1/csgo_dataset/.gitkeep
+!ssd-pytorch-master1/map_out/.gitkeep

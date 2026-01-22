@@ -1,0 +1,11 @@
+we need at least 176 pictures to train
+we should use jpg to save the pictures
+we can use labelimg to create label
+
+1.voc_annotation
+2.train
+3.ssd change the
+"model_path"        : 'logs/ep200-loss0.923-val_loss2.544.pth',
+"classes_path"      : 'model_data/cls.txt',
+4.predict
+choose the style

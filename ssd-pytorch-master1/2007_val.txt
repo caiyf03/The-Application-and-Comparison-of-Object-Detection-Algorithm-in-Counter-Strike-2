@@ -1,0 +1,20 @@
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/10.jpg 718,394,991,867,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/117.jpg 1208,478,1278,603,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/121.jpg 1255,402,1422,757,0 1133,425,1251,723,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/123.jpg 966,513,1124,811,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/132.jpg 1330,500,1549,802,1
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/133.jpg 1430,448,1722,761,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/141.jpg 591,503,799,996,1
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/159.jpg 806,417,922,705,1
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/17.jpg 924,382,1116,907,1 1328,177,1685,521,1 1158,542,1337,828,1 1355,503,1678,878,1
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/173.jpg 903,542,1070,828,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/174.jpg 728,482,895,828,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/176.jpg 905,486,1058,782,0 1128,492,1235,728,1
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/178.jpg 918,463,1043,640,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/184.jpg 1326,702,1514,965,1
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/204.jpg 903,228,1341,1011,1
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/210.jpg 610,559,731,757,1 945,603,1018,746,1 843,609,897,723,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/26.jpg 803,446,906,640,1 1360,486,1510,711,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/5.jpg 843,475,1243,975,3
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/63.jpg 774,432,1008,936,1 1301,463,1387,603,1 162,459,218,573,0 243,461,310,607,0 374,465,441,567,0
+D:\school\AI\ssd-pytorch-master1\VOCdevkit/VOC2007/JPEGImages/71.jpg 774,253,1153,832,3
