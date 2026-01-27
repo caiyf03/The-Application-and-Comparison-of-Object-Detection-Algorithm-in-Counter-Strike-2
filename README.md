@@ -1,4 +1,4 @@
-# The-Application-and-Comparison-of-Object-Detection-Algorithm-in-Counter-Strike-2
+# The Application and Comparison of Object Detection Algorithm in Counter Strike 2
 
 This repository contains the official implementation for **Object Detection in Counter-Strike 2**.
 
