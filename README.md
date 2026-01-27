@@ -1,4 +1,7 @@
-This repository contains the official implementation for **Object Detection in Counter-Strike 2**
+# The-Application-and-Comparison-of-Object-Detection-Algorithm-in-Counter-Strike-2
+
+This repository contains the official implementation for **Object Detection in Counter-Strike 2**.
+
 The main text of the paper can be found at: [IML_project (1).pdf](IML_project%20(1).pdf)
 
 A demo can be seen at [DEMO_vedio](https://www.bilibili.com/video/BV1oT4y147je/?spm_id_from=333.1387.homepage.video_card.click)
